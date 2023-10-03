@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "578567587215",
+    "project_id": "noting-b3b3d",
+    "storage_bucket": "noting-b3b3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578567587215:android:b3638bba14394d3d6c77fa",
+        "android_client_info": {
+          "package_name": "com.example.noting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeHBJKBDt9fNTbVpVba8-Zbe7WLIpYot8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
